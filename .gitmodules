@@ -1,0 +1,3 @@
+[submodule "src/windows/asi_loader"]
+	path = src/windows/asi_loader
+	url = https://git.lumen.sh/Fierelier/asi_loader
