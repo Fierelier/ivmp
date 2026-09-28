@@ -2,6 +2,8 @@
 
 Open source multiplayer server/client for Grand Theft Auto IV.
 
+![A preview of the GUI client, showing a simple window with entry boxes labeled "Executable", "Nickname" and "Address"](docs/ivmp_gui.png)
+
 ## Compatibility
 
 Windows XP and newer are supported. The server works on Windows and UNIX systems.
